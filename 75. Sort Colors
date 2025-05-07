@@ -1,4 +1,10 @@
-//https://leetcode.com/problems/sort-colors/
+// Approach use Dutch National Flag Algorithm,
+// which is basically using of 3 pointer lo,mid and high 
+// initialize lo,mid to 0 and high to array size - 1
+// and then it revolves around mid array element
+// if its 0 then swap lo and mid array elements and then increment both pointers by 1
+// if its 1 then just simply increment mid pointer by 1 nothing else
+// if its 2 then swap mid and high array elements and then decrement high pointer by 1
 class Solution {
 public:
     void swap(vector<int>& nums, int pos1, int pos2) {
