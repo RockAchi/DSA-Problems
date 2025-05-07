@@ -24,4 +24,4 @@ public:
                 swap(nums, mid, high--);
         }
     }
-};
+}; 
