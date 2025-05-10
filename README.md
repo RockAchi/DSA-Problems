@@ -10,4 +10,4 @@
 ---
 
 ### ⚙️ Greedy Algorithm
-- **[1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)**   [💡]()
+- **[1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)**   [💡](https://github.com/RockAchi/DSA-Problems/blob/main/1710.%20Maximum%20Units%20on%20a%20Truck.cpp)
