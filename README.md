@@ -1,4 +1,4 @@
-## ![LeetCode Logo](https://github.com/RockAchi/DSA-Problems/blob/main/assets/leetcode.png?raw=true) LeetCode Problems
+## LeetCode Problems
 
 ### 📂 Arrays
 - **[75. Sort Colors](https://leetcode.com/problems/sort-colors/)**   [💡](https://github.com/RockAchi/DSA-Problems/blob/main/arrays/75.%20Sort%20Colors.cpp)
